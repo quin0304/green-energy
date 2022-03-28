@@ -38,24 +38,15 @@ footer{
     
 }
 
-@media only screen and (min-width: 485px){
+@media only screen and (min-width: 960px){
 
  html{
      font-size: larger;
  }   
 
- .navbar-expand-lg {
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-}
+ 
 
-.navbar {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
- figure img {
+figure img {
     
     float: left;
     margin-right: 2rem;
