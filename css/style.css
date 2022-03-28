@@ -51,7 +51,7 @@ figure img {
     float: left;
     margin-right: 2rem;
     margin-bottom: 1rem;
-    width: 25%;
+    max-width: 25%;
 }
 
 .list-group{
