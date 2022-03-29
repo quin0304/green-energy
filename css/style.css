@@ -35,10 +35,11 @@
 footer{
     background-color: #fcd62d;
     margin-left: 0;
+  margin-top: 3rem;
     
 }
 
-@media only screen and (min-width: 960px){
+@media only screen and (min-width: 600px){
 
  html{
      font-size: larger;
@@ -50,7 +51,7 @@ figure img {
     
     float: left;
     margin-right: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     max-width: 25%;
 }
 
@@ -69,7 +70,7 @@ figure img {
 
 footer{
     
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 
 }
